@@ -201,9 +201,6 @@ hr {
     .central-content{
         zoom: 100%;
     }
-    .footer{
-        position: fixed;
-    }
 }
 
 @media(max-width: 1000px) {
