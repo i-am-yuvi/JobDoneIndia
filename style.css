@@ -155,9 +155,9 @@ input[type=submit] {
 
 input[type=submit]:hover {
     /* background-color: #0176a9; */
-    box-shadow: rgba(255, 255, 255, 0.3) 0 0 2px inset, rgba(0, 0, 0, 0.4) 0 1px 5px;
+    box-shadow: rgba(255, 255, 255, 0.3) 0 0 4px inset, rgba(0, 0, 0, 0.4) 0 3px 7px;
     text-decoration: none;
-    transition-duration: .15s, .15s;
+    transition-duration: .20s, .20s;
 }
 
 .footer{
