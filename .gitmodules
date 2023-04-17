@@ -1,0 +1,3 @@
+[submodule "jobdoneindia"]
+    path = jobdoneindia
+    url = https://github.com/i-am-yuvi/JobDoneIndia.git
