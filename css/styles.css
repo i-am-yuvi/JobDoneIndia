@@ -500,7 +500,7 @@ progress {
 }
 @media (min-width: 1200px) {
   .display-1 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 }
 
@@ -9329,6 +9329,11 @@ textarea.form-control-lg {
     display: none !important;
   }
 
+  .flex-feature {
+    display: flex;
+    flex-direction: row;
+  }
+
   .flex-lg-fill {
     flex: 1 1 auto !important;
   }
@@ -11317,7 +11322,7 @@ section {
 }
 
 .app-badge {
-  height: 3rem;
+  height: 4.5rem;
 }
 
 #mainNav {
